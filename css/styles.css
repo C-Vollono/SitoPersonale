@@ -79,11 +79,19 @@ section h2 {
   color: #04AA6D;
 }
 
+section h3{
+  color: #04AA6D;
+}
+
 ul {
   padding-left: 20px;
 }
 
 h2{
+  text-align: center;
+}
+
+h3{
   text-align: center;
 }
 
